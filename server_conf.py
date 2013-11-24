@@ -1,0 +1,11 @@
+SYSTEM_PACKAGES_NEEDED = 'python-pip subversion git tmux'  # packages needed
+USER = 'user'  # the user to use to log in other servers
+HOSTS = ['192.168.10.36']  # project servers ip
+PROJECT_NAME = 'project_name'
+REPO_URL = 'repo_url'
+REQUIREMENT_FILE = 'requirements.txt'
+DB_NAME = "project_db_name"
+DB_USER_NAME = "project_db_user_name"
+DB_PASSWORD = "project_db_password"
+PROJECT_PATH = ''
+VIRTUALENV_PATH = ''

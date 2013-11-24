@@ -1,4 +1,4 @@
-fabric_tasks
+Fabric Tasks
 ============
 
-A collection of tasks using Fabric and fabtools
+A collection of tasks using Fabric and fabtools.
